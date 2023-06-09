@@ -29,7 +29,7 @@ conda env create -f env.yml
 
 ## Usage
 
-+ Download our pretrained model [here](https://drive.google.com/open?id=1zBCl2qI_fT3CwPZkVvZEv37bDIlhakF6). Unpack the archive into `model` folder.
++ Download our pretrained model [here](https://ucomplutense-my.sharepoint.com/:u:/r/personal/cperez14_ucm_es/Documents/Aside/Projects/bdn-refremv/model/model.pth?csf=1&web=1&e=lkQEcW). Unpack the archive into `model` folder.
 
 + Put test images into `samples` folder, and run script `bash test.sh`.
 
@@ -54,8 +54,8 @@ More real-world reflection images can be found in `/samples` for testing.
 
 The synthetic datasets used for training and testing in our paper: 
 
-+ [Training data](https://drive.google.com/open?id=1bbWsGG1qQgB-sbktI2h5vO8UhD1uHaj7)
-+ [Test data](https://drive.google.com/open?id=1ZeeKJVbZ_bifsdpAlbguDleViDA4QjCw)
++ [Training data](https://ucomplutense-my.sharepoint.com/:u:/r/personal/cperez14_ucm_es/Documents/Aside/Projects/bdn-refremv/data/ref_data_train.tar.xz?csf=1&web=1&e=rOJjrn)
++ [Test data](https://ucomplutense-my.sharepoint.com/:u:/r/personal/cperez14_ucm_es/Documents/Aside/Projects/bdn-refremv/data/ref_data_test.tar.xz?csf=1&web=1&e=SNTPJm)
 
 
 ## Citation
